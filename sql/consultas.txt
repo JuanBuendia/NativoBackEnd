@@ -1,0 +1,8 @@
+- cargar los datos a la base de datos
+- actualizar registros a la base de datos
+- borrar perfiles y actividades de la base de datos(tener en cuenta las dependencias de las tablas)
+- listar los usuarios de la base de datos
+- Buscar en los registros por id y nombres
+- consultar las actividades que se desarrollan en dererminado lugar
+- consultar todos los lugares turisticos de un municipio,mostrar datos del lugar y nombre del municip]
+
