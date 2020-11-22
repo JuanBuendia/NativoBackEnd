@@ -16,7 +16,7 @@ create table users(
 	email varchar(60),
 	birthdate date,
 	password varchar(12),
-	photo bytea
+	photo varchar(200)
 );
 
 create table municipality(
@@ -29,7 +29,7 @@ create table place(
 	municipality_id int,
 	place_id serial primary key,
 	coordinates point,
-	photo bytea,
+	photo varchar(200),
 	description varchar(500)
 );
 
